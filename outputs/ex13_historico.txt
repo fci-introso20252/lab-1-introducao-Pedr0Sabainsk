@@ -1,0 +1,3 @@
+   22  mkdir meu_diretorio
+   23  mkdir -p meu_diretorio/subdir1/subdir2
+   65  history | grep "mkdir" >> outputs/ex13_historico.txt

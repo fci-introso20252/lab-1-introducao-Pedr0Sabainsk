@@ -1,0 +1,5 @@
+Meu primeiro arquivo Linux
+Segunda linha do arquivo
+Linha 1
+linhas 2
+Linha 3

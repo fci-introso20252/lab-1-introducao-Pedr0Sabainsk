@@ -1,0 +1,6 @@
+/workspaces/lab-1-introducao-Pedr0Sabainsk/exemplos
+/workspaces/lab-1-introducao-Pedr0Sabainsk
+/workspaces/lab-1-introducao-Pedr0Sabainsk/docs
+/workspaces/lab-1-introducao-Pedr0Sabainsk/outputs
+/workspaces/lab-1-introducao-Pedr0Sabainsk
+/workspaces/lab-1-introducao-Pedr0Sabainsk

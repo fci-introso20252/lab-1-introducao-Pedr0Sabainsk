@@ -1,0 +1,8 @@
+Linux codespaces-e2a2c7 6.8.0-1030-azure #35~22.04.1-Ubuntu SMP Mon May 26 18:08:30 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          32G   11G   20G  36% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/root        29G   21G  8.3G  72% /vscode
+/dev/loop4       32G   11G   20G  36% /workspaces
+/dev/sdb1        44G  2.5G   40G   6% /tmp
